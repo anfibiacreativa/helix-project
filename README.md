@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+This is a test project for Project Franklin on Azure.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
